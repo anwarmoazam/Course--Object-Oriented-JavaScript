@@ -1,1 +1,0 @@
-console.log('Course--Object-Oriented-JavaScript');
