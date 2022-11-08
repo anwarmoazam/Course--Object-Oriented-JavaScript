@@ -49,9 +49,9 @@ console.log(userOne);
 console.log(userTwo);
 
 console.log(adminOne);
-adminOne.login()
-adminOne.logout()
+adminOne.login();
+adminOne.logout();
 
-console.log(users)
+console.log(users);
 adminOne.deleteUser(userOne);
-console.log(users)
+console.log(users);
